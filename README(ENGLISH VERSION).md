@@ -60,21 +60,6 @@ The project highlights the strengths and limitations of different text represent
 - Multi-class sentiment classification
 - Incorporating more advanced preprocessing techniques
 
-## Repository Structure
-```
-├── data/
-│   └── amazon_reviews.csv
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── word2vec_training.ipynb
-│   ├── glove_embeddings.ipynb
-│   ├── bert_frozen.ipynb
-│   └── bert_finetuned.ipynb
-├── models/
-├── results/
-└── README.md
-```
-
 ## License
 This project is for educational and research purposes.
 
